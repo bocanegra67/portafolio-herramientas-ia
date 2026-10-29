@@ -9,12 +9,12 @@
 
 ##  Integrantes
 
-|          Nombre completo           | Matrícula |
-| :--------------------------------: | :-------: |
-|       Paola Bocanegra Tellez       | 198088-1  |
-|   Javier Emilio Aranda Espinoza    | 198581-9  |
-| Alexa Gonzalez Del Castillo Torres | 198373-0  |
-|     Mariano Hernández Antuñano     | 198549-5  |
+|          Nombre completo           |
+| :--------------------------------: |
+|       Paola Bocanegra Tellez       |
+|   Javier Emilio Aranda Espinoza    |
+| Alexa Gonzalez Del Castillo Torres |
+|     Mariano Hernández Antuñano     |
 
 ## 1. Caso de uso
 
@@ -57,4 +57,4 @@ $$
 - **Riesgo:** La IA podría interpretar mal la información o inventar datos, por ejemplo, crear tareas o eventos que el usuario nunca mencionó.
 - **Mitigación:** El sistema debe marcar la información generada por la IA y permitir que el usuario la revise antes de guardarla.
 
-
+![moodle_card](C:\Users\198088-1\Pictures\Screenshots\cap.png)
