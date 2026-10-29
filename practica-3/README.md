@@ -58,3 +58,6 @@ $$
 - **Mitigación:** El sistema debe marcar la información generada por la IA y permitir que el usuario la revise antes de guardarla.
 
 ![moodle_card](cap.png)
+
+
+github: bocanegra67
