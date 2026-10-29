@@ -57,4 +57,4 @@ $$
 - **Riesgo:** La IA podría interpretar mal la información o inventar datos, por ejemplo, crear tareas o eventos que el usuario nunca mencionó.
 - **Mitigación:** El sistema debe marcar la información generada por la IA y permitir que el usuario la revise antes de guardarla.
 
-![moodle_card](C:\Users\198088-1\Pictures\Screenshots\cap.png)
+![moodle_card](cap.png)
